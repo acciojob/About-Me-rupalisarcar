@@ -1,1 +1,20 @@
-
+*{
+	margin:0;
+	padding:0px;
+	box-sizing:border-box;
+	background-color:#f6f6f6;
+}
+ body{
+	 width:95%;
+	 margin: 20px auto;
+	 box-shadow : 0 0 15px #ccc;
+	 background-color:white;
+	 display:flex;
+	 justify-content:center;
+ }
+.left{
+	width:50%;
+}
+.right{
+	width:50%;
+}
